@@ -1,3 +1,4 @@
 git status (gives the status of file , which is tracked and which is not tracked)
 git add .  (add files working stating)
 git diff   (working directory and staging directory)
+git commit -m "firstCommit"
